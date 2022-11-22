@@ -1,0 +1,13 @@
+#ms_banner {
+    background-color: #c20016;
+}
+
+#ms_jumbotron {
+    background-image: url('../imgs/jumbotron.png');
+}
+
+.ms_jumbo-content {
+    color: white;
+    padding-top: 345px;
+    font-weight: bold;
+}
